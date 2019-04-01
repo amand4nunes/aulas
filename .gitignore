@@ -1,4 +1,9 @@
+#isso é um comentário
+#ignorando arquivos por extensão
 *.doc
 *.docx
 *.zip
+#ignorando diretorio por nome
 testes/
+#ignorando arquivos
+nome_do_arquivo.txt
